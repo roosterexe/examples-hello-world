@@ -3,7 +3,7 @@
 
 declare const Deno: any;
 
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = "ArtaAuth111131141548pkj";
 
 const STRIP_HEADERS = new Set([
   "host",
